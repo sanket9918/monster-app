@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+h1
+{
+  font-family: 'Sigmar One', cursive;
+  color: white;
+}
+p{
+  color: white;
+}
