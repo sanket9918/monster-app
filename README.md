@@ -1,4 +1,4 @@
-## Monster App
+Monster App
 
 
 ## Available Scripts
