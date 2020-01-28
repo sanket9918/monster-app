@@ -1,6 +1,6 @@
 import React from 'react'
 import './card-list.styles.css'
-import { Card } from "/home/sanket/Desktop/test/frontend/react/my-app/src/components/card/card.component.jsx";  
+import { Card } from '../card/card.component'
 
 
 export const CardList = props =>{
